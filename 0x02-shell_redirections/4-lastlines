@@ -1,2 +1,2 @@
 #!/bin/bash
-tail /etc/passwd[B[A
+tail /etc/passwd
